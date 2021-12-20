@@ -1,2 +1,2 @@
-Dit is mijn eerste project.
+Dit was mijn eerste project.
 En hier is mijn toevoeging.
